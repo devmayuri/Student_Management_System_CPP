@@ -65,6 +65,7 @@ Use the menu to manage student records.
 4. Update Student
 5. Delete Student
 6. Exit
+
 Enter your choice: 1
 Enter Roll No: 101
 Enter Name: Mayuri Maurya
@@ -94,4 +95,5 @@ Mayuri Maurya
 B.Sc.IT (2nd Yeaer)
 
 If you like this project, don't forget to star the repo!
+
 
